@@ -28,7 +28,7 @@
 3. 执行cleanCss任务，压缩优化css
 4. 添加.min后缀
 
--html构建：
+- html构建：
 1. 执行fileInclude嵌套任务
 2. 执行rev版本生成任务
 3. 执行revreplace版本替换任务
